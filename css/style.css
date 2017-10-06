@@ -10,7 +10,7 @@
 /* Basic */
 
 	body, #skel-layers-wrapper {
-		background: #f3f6fa;
+		background: #280e38;
 	}
 
 	body.is-loading * {
@@ -571,8 +571,9 @@
 			padding: 0;
 		}
 
+		/* Leading article - mid blue */
 		.wrapper.style2 {
-			background-color: #83d3c9;
+			background-color: #0a336b;
 			background-image: url("images/light-bl.svg"), url("images/light-br.svg");
 			background-position: bottom left, bottom right;
 			background-repeat: no-repeat, no-repeat;
