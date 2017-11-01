@@ -13,14 +13,15 @@ so well, and most of us have gone over to digital media. The initial tinder supp
 flame dwindled and I don't use it any more.
 
 Then came a training course on firefighting in 2003. I learnt that the critical trinity for a successful 
-fire depends on an adequate supply of fuel, air, and heat: interrupting any one of those elements causes a fire to go out.
+fire depends on an adequate supply of fuel, air, and heat: interrupting any one of those elements causes a fire to go out,
+and boosting any one of them tends to make the fire burn better.     
 
 I took this knowledge quite literally for several years and used the simple expedient of 
-adding a spoonful or two of parrafin to the wood and paper before lighting the stove. The parrafin doesn't vaporise 
+adding a spoonful or two of paraffin to the wood and paper before lighting the stove. The paraffin doesn't vaporise 
 if the stove is cold and it burns quite cleanly. Certainly hot enough to act as an accelerant when fire investigators
 visit the scene of an arson attack. 
 
-But parrafin isn't the perfect answer, because it sometimes gets spilt between bottle and fireplace, and it doesn't smell
+But paraffin isn't the perfect answer, because it sometimes gets spilt between bottle and fireplace, and it doesn't smell
 good indoors. Additionaly Janet was concerned whenever she saw me "giving the stove its medicine": she expected a flash-over
 and a difficult insurance claim would follow.
 
